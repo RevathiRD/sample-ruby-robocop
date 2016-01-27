@@ -11,3 +11,5 @@ rvm:
 script:
   - rake rubocop
   - rake test
+  
+  
